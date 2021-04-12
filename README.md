@@ -21,6 +21,7 @@ Breast Cancer Prediction Using Machine Learning Algorithms
 - Fiiting in ML -> process storing required data and predicting the result is called fittig in machine learning
 - Independent variable : a variable which is not dependable on other entity.
 - Dependent variable :  a variable which is dependable on other entity.
+- Train-test split model is used for ML model to train machine for required dataset and testing the machine for prediction results inorder to reach to our best model conclusion.
 
 ## Anaconda Navigator:
 - It is an GUI for desktop which allows to launch applications and easily manage conda packages.
