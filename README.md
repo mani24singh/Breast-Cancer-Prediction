@@ -18,7 +18,7 @@ Breast Cancer Prediction Using Machine Learning Algorithms
 - Dataset for this project is available on this kaggle as [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/code)
 
 ## ML-Model:
-- Fitting in ML -> process storing required data and predicting the result is called fittig in machine learning
+- Fitting in ML -> process of storing required data and predicting the result is called fitting in machine learning
 - Independent variable : a variable which is not dependable on other entity.
 - Dependent variable :  a variable which is dependable on other entity.
 - Train-test split model is used for ML model to train machine for required dataset and testing the machine for prediction results inorder to reach to our best model conclusion.
